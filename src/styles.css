@@ -108,6 +108,9 @@ a:hover {
   grid-template-columns: 330px 300px;
   margin: 20px auto;
 }
+.min-height{
+  color: white;
+}
 
 .container .box {
   border-radius: 10px;
@@ -122,4 +125,8 @@ a:hover {
 img.socialIcon {
   height: 30px;
   width: 30px;
+}
+#home {
+  color: white;
+
 }
