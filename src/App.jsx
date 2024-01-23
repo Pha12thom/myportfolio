@@ -27,11 +27,11 @@ const siteProps = {
   name: "Milugo Geofrey Ouma",
   title: "Web Designer , software engineer, Ai engineer",
   email: "milugogeofrey0@gmail.com",
-  gitHub: "https://github.com/pha12thom",
-  instagram: "https://www.instagram.com/milugo_g",
-  linkedIn: "https://www.linkedin.com/in/geofrey-milugo-msu27345/",
-  medium: "https://medium.com/@geofreymilugo",
-  twitter: "https://x.com/milugo_g",
+  gitHub: "pha12thom",
+  instagram: "milugo_g",
+  linkedIn: "geofrey-milugo-msu27345/",
+  medium: "@geofreymilugo",
+  twitter: "milugo_g",
   youTube: "Code",
 };
 
