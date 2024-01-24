@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Milugo Geofrey Ouma",
-  title: "Web Designer , software engineer, Ai engineer",
+  title: "software engineer, Ai engineer, web developer, azure cloud engineer",
   email: "milugogeofrey0@gmail.com",
   gitHub: "pha12thom",
   instagram: "milugo_g",
