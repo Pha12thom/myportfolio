@@ -25,14 +25,14 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Milugo Geofrey Ouma",
-  title: "software engineer, Ai engineer, web developer, azure cloud engineer",
+  title: "software engineer, Ai engineer, web developer, azure engineer",
   email: "milugogeofrey0@gmail.com",
   gitHub: "pha12thom",
   instagram: "milugo_g",
   linkedIn: "geofrey-milugo-msu27345/",
   medium: "@geofreymilugo",
   twitter: "milugo_g",
-  youTube: "Code",
+  youTube: "@geofreymilugo351",
 };
 
 const primaryColor = "#4E567E";
