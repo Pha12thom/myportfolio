@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "geofrey-milugo-msu27345/",
   medium: "@geofreymilugo",
   twitter: "milugo_g",
-  youTube: "@geofreymilugo351",
+  youTube: "geofreymilugo351",
 };
 
 const primaryColor = "#4E567E";
