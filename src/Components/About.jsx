@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a passionate mathematics and computer science student at Maseno University. My greatest passion underlies in laveraging latest web technology tools, learning and using them to engineer latest AI based softwares that are simplistic for all. I";
+  "I'm a passionate mathematics and computer science student at Maseno University. My greatest passion underlies in laveraging latest web technology tools, learning and using them to engineer latest AI based softwares that are simplistic for all.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
