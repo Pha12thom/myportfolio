@@ -31,6 +31,11 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
+    title: "Django Full bus ticket reservation management system.",
+    description: "made a full bus ticket reservation system using Django",
+    url: "https://github.com/Pha12thom/DjangoBusmanagement_system",
+  },
+  {
     title: "10 Things To Know About Azure Static Web Apps 🎉",
     description:
       "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
